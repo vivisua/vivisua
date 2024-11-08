@@ -1,4 +1,4 @@
-   [![oh in a blink gone .](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+   [![oh in a blink gone .](https://readme-typing-svg.demolab.com/?lines=oh_in_a_blink_gone_.)](https://git.io/typing-svg)
  
    ♪ - sign my [atabook](https://decodreamer.atabook.org/) if u want... 
  
