@@ -1,5 +1,5 @@
 <p align="center">
-<img width="435" src="https://readme-typing-svg.demolab.com?font=&weight=300&size=15&duration=7000&pause=1000&color=CAF6F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=oh+in+a+blink+gone.](https://git.io/typing-svg)"
+<img width="435" src="https://readme-typing-svg.demolab.com?font=&weight=300&size=15&duration=7000&pause=1000&color=CAF6F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=oh+in+a+blink+gone.(https://git.io/typing-svg)"
 </p>
 
 <p align="center">
