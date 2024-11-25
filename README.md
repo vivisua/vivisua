@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=&size=15&pause=1000&color=A10000&repeat=false&width=435&lines=%E2%80%9Cwhat+if+I+used+my+superchat+money+to+buy+a+vibrator%3F%E2%80%9D"
+<img width="435" src="https://readme-typing-svg.demolab.com/?font=&weight=300&size=15&duration=7000&pause=1000&color=A10000&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=インターネット最高！"
 </p>
-
 
 <p align="center">
 <img width=500 src="https://i.postimg.cc/MKbjLT6L/IMG-9022.png"
