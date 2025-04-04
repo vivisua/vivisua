@@ -1,6 +1,3 @@
-<p align="center">
-<img width="435" src="https://readme-typing-svg.demolab.com/?font=&weight=300&size=15&duration=7000&pause=1000&color=ace0e8&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=my god, my universe..."
-</p>
 
 <p align="center">
 <img width=600 src="https://files.catbox.moe/dnoitn.png"
