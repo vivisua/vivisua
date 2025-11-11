@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-amelia ♡ offtab most of the time!
+sua ♡ offtab most of the time!
 </p>
 
 <p align="center">
